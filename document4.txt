@@ -1,0 +1,1 @@
+main에서 document4를 만들었습니다.
